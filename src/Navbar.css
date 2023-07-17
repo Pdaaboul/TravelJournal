@@ -4,12 +4,14 @@
   justify-content: center;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  margin-bottom: 35px;
+  
 }
-.earth{
- width:100px;
- height:100px;
+.earth {
+  width: 100px;
+  height: 100px;
 }
-.navHeader{
-    color:white;
-    margin-top: 30px;
+.navHeader {
+  color: white;
+  margin-top: 30px;
 }
